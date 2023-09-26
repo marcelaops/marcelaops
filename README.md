@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hello world 👋
 ##
-🔭  I’m working on my ability to learn new things <br/>
-🌱  I’m currently learning lots of programming stuff <br/>
-😄  Pronouns: She/Her <br/>
-🥖  Fun fact: I know how to bake a sourdough bread <br/>
+Em 2021 comecei a minha jornada nos estudos de programação na Trybe. Lá, muito além de me formar como Full Stack em Desenvolvimento de Web, aprendi á aprender, expandi minhas habilidades comportamentais fazendo projetos individuais e em grupo. Aliás posso dizer que conclui 37 projetos usando diversas tecnologias. Dentre elas HTML, CSS, JavaScript, ReactJS, NodeJS, API REST, Sequelize, MySQL, MongoDB, Python, C#, ASP.NET, testes unitário e de integração.
 
 <br/>
 
